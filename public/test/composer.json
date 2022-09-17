@@ -1,0 +1,20 @@
+{
+    "name": "test/test",
+    "type": "project",
+    "description": "test.",
+    "keywords": ["test", "test"],
+    "license": "MIT",
+    "require": {
+        "php": "^8.0.2",
+        "doctrine/orm": "^2.13"
+    },
+    "autoload": {
+        "classmap": [
+            "code"
+        ]
+    },
+    "autoload-dev": {
+       
+    }
+    
+}
